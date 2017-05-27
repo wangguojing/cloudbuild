@@ -1,0 +1,13 @@
+{
+"cloudBuildTargetName":"default-ios",
+"buildNumber":"62",
+"scmCommitId":"92375c0cf7037c8af63a55872648177cdba1e9da",
+"buildStartTime":"5/19/2017 10:57:38 AM",
+"projectId":"nalune-w/picvox",
+"bundleId":"com.g2fun.picvox",
+"scmBranch":"master",
+"xcodeVersion":"8.0",
+"unityVersion":"5.3.6f1",
+"assetBundles.localBundlesRelativePath":"AssetBundles/iOS",
+"assetBundles.localBundles":["iOS","assets/resources/config.txt.bundle","assets/resources/dotweensettings.asset.bundle","assets/resources/gridcell/cube.prefab.bundle","assets/resources/gui/boardgui.prefab.bundle","assets/resources/gui/consolegui.prefab.bundle","assets/resources/gui/consolegui_errorui.prefab.bundle","assets/resources/gui/consolegui_exceptionui.prefab.bundle","assets/resources/gui/consolegui_logui.prefab.bundle","assets/resources/gui/consolegui_stacktraceui.prefab.bundle","assets/resources/gui/consolegui_warningui.prefab.bundle","assets/resources/gui/createlvlgui.prefab.bundle","assets/resources/gui/gamegui.prefab.bundle","assets/resources/gui/maingui.prefab.bundle","assets/resources/gui/message box.prefab.bundle","assets/resources/gui/patchgui.prefab.bundle","assets/resources/gui/stats monitor.prefab.bundle","assets/resources/gui/uploadimggui.prefab.bundle","assets/resources/letterbox.mat.bundle","assets/resources/new render texture.rendertexture.bundle","assets/resources/test/1.jpg.bundle","assets/resources/test/2.jpg.bundle","assets/resources/test/3.jpg.bundle","assets/resources/test/4.jpg.bundle","assets/resources/test/5.jpg.bundle","assets/resources/test/cube.prefab.bundle","assets/resources/test/niu.jpg.bundle","assets/resources/test/sprite_a.prefab.bundle","assets/resources/test/sprite_b.prefab.bundle","assets/scenes/game.unity.bundle","assets/scenes/login.unity.bundle","assets/scenes/main.unity.bundle","assets/scenes/testscene.unity.bundle","assets/scenes/testscene/lightmap-0_comp_dir.exr.bundle","assets/scenes/testscene/lightmap-0_comp_light.exr.bundle","assets/scenes/testscene/lightmap-1_comp_dir.exr.bundle","assets/scenes/testscene/lightmap-1_comp_light.exr.bundle","assets/test/new terrain.asset.bundle","assets/test/shader/unlit-transparentblend.shader.bundle"]
+}
