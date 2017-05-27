@@ -1,5 +1,5 @@
-/client/Library
-/client/Temp
-/client/.vs
-/client/*.csproj
-/client/*.sln
+/cloudbuild/Library
+/cloudbuild/Temp
+/cloudbuild/.vs
+/cloudbuild/*.csproj
+/cloudbuild/*.sln
